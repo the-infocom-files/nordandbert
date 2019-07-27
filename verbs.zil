@@ -2701,7 +2701,7 @@ as if you seemed to be about to talk." CR>)>)
 ;"idrop is not called first for v-throw-out"
 <ROUTINE V-THROW-OUT ()
 	 <COND (<OR <EQUAL? <GET ,P-ITBL ,P-PREP2> ,PR?WITH>
-		    <NOT <GET ,P-ITBL ,P-PREP2> ,W?OF>>
+		    <NOT <EQUAL? <GET ,P-ITBL ,P-PREP2> ,W?OF>>>
 		<V-TAKE-UNDER>
 		;<PERFORM ,V?THROW ,PRSO>
 		;<CRLF>
@@ -3586,7 +3586,7 @@ tub, her long silken blond hair streaming through the steamy water. ">)
 
 <CONSTANT NEXITSTR 0>  ;"changed to amvf-numbers from lgop constant numbers"
 <CONSTANT FEXITFCN 0>
-<CONSTANT CEXITFLAG 1>
+;<CONSTANT CEXITFLAG 1>
 <CONSTANT CEXITSTR 1>
 <CONSTANT DEXITOBJ 1>
 <CONSTANT DEXITSTR 2>
