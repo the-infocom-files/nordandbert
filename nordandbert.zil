@@ -2,7 +2,7 @@
 		             NORD AND BERT
 	(c) Copyright 1987 Infocom, Inc.  All Rights Reserved."
  
-<CONSTANT VERSIONID 1> <VERSION EZIP>
+<CONSTANT RELEASEID 1> <VERSION EZIP>
  
 <INSERT-FILE "tells" T>
 <INSERT-FILE "parser" T>
