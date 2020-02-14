@@ -20,12 +20,10 @@ The following sources provide further information on Nord and Bert Couldn't Make
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Nord and Bert Couldn't Make Head or Tail of it listed in the Infocom Fact Sheet. It also holds the source files for versions 19/870722 and 20/870722.
-
-| Release | Serial | Story File                   | Zarf Sources          | Historical Sources |
-| -------:|:------:|:----------------------------:|:---------------------:|:------------------:|
-|      19 | 870722 | [nordandbert-r19-s870722.z4] | [nordandbert-r19.zip] |      [revision 19] |
-|      20 | 870722 | [nordandbert-r20-s870722.z4] | [nordandbert-r20.zip] |   [final revision] |
+| Release | Serial | Type | Story File                   | Obsessive Sources     | Historical Sources |
+| -------:|:------:|:----:|:----------------------------:|:---------------------:|:------------------:|
+|      19 | 870722 |  PUB | [nordandbert-r19-s870722.z4] | [nordandbert-r19.zip] |      [revision 19] |
+|      20 | 870722 |  FIN | [nordandbert-r20-s870722.z4] | [nordandbert-r20.zip] |   [final revision] |
 
 [nordandbert-r19-s870722.z4]: https://eblong.com/infocom/gamefiles/nordandbert-r19-s870722.z4
 [nordandbert-r19.zip]: https://eblong.com/infocom/sources/nordandbert-r19.zip
